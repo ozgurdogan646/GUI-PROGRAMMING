@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mytagram</string>
+    <string name="button_text">New Post</string>
+    <string name="for_textView">Name Surname</string>
+    <string name="for_plainText">Message</string>
+    <string name="for_textView2">Location</string>
+    <string name="for_imageView">Image View</string>
+</resources>
