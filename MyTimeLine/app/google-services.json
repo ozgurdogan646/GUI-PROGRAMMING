@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38065472237",
+    "firebase_url": "https://mytimeline-491fe.firebaseio.com",
+    "project_id": "mytimeline-491fe",
+    "storage_bucket": "mytimeline-491fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38065472237:android:47851d1a72c6d27ef342e4",
+        "android_client_info": {
+          "package_name": "com.example.timeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38065472237-usvg7b4tv5vaivhe1jvncf95nfd9evoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhvlVBvJmAl27MFE4r7eEDtgNEZ-e3E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38065472237-usvg7b4tv5vaivhe1jvncf95nfd9evoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
